@@ -1,3 +1,4 @@
+95% of storage used … If you run out, you can't create, edit, and upload files. Get 100 GB of storage for ₦950.00 ₦240.00/month for 3 months.
 #!/usr/bin/python3
 """ prints the State object with the name passed as argument from the database
 """
